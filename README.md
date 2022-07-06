@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patryk Tokarski.
+# Patryk Tokarski
 - 👀 I’m interested in everything related to data analysis/data science. I'm also passionate about programming, technology, music and cooking.
 - 🌱 I’m currently learning data analysis tools and statistical methods.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/)
