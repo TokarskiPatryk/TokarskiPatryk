@@ -1,6 +1,6 @@
 # Patryk Tokarski
-- 👀 I’m interested in everything related to data analysis/data science. I'm also passionate about programming, technology, music and cooking.
-- 🌱 I’m currently learning data analysis tools and statistical methods.
+- 👀 I’m interested in everything related to data engineering/data science. I'm also passionate about programming, technology, music and cooking.
+- 🌱 I’m currently learning data analysis/engineering tools, statistics and many various DevOps/MLOps related tools.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/)
 
 <!---
