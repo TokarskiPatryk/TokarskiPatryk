@@ -1,6 +1,6 @@
 # Patryk Tokarski
 - 🌱 I’m currently learning data analysis/engineering tools, statistics and many various DevOps/MLOps related tools.
-- 👀I'm passionate about programming, technology, music and cooking.
+- 👀 I'm passionate about programming, technology, music and cooking.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/)
 
 <!---
