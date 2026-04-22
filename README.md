@@ -1,5 +1,5 @@
 # Patryk Tokarski
-You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/) or check out my site for more information about my experience and data engineering work: [patryktokarski.com](https://patryktokarski.com/).
+You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/) or check out my [site](https://patryktokarski.com/) for more information about my experience and data engineering work.
 
 Interesting projects:
 - https://tokarskipatryk.github.io/projects/
