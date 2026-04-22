@@ -1,11 +1,10 @@
 # Patryk Tokarski
-- 🌱 I’m currently learning data analysis/engineering tools, statistics and many various DevOps/MLOps related tools.
-- 👀 I'm passionate about programming, technology, music and cooking.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/)
+You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-tokarski/) or check out my site for more information about my experience and data engineering work: [patryktokarski.com](https://patryktokarski.com/).
 
-https://tokarskipatryk.github.io/projects/
-
-https://tokarskipatryk.github.io/data-analysis/
+Interesting projects:
+- https://tokarskipatryk.github.io/projects/
+- https://tokarskipatryk.github.io/data-analysis/
+- ...
 
 <!---
 TokarskiPatryk/TokarskiPatryk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
